@@ -1,6 +1,9 @@
-Hi there! 👋 I'm Tajveer, a passionate programmer with a solid understanding of Java and object-oriented programming. I'm also diving into web development, currently learning HTML, CSS, and JavaScript to build engaging and interactive user interfaces. On top of that, I have some experience in Python.
+Hi there! 👋 
+
+I'm Tajveer, a passionate programmer with a solid understanding of Java and object-oriented programming. I'm also diving into web development, currently learning HTML, CSS, and JavaScript to build engaging and interactive user interfaces. On top of that, I have some experience in Python.
 
 Skills
+
 Java: Proficient in Java programming, including object-oriented concepts like classes, inheritance, and polymorphism. Experienced in building applications and working with frameworks like Spring.
 JavaScript: Familiar with JavaScript, currently expanding my knowledge to develop frontend applications and enhance user experiences.
 HTML/CSS: Actively learning HTML and CSS to create well-structured and styled web pages.
